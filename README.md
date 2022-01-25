@@ -1,3 +1,2 @@
 # LMS
-hi !
-hello
+Creating a basic Learning Management System Using MERN.
